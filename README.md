@@ -205,3 +205,4 @@ model.load_state_dict(checkpoint['model_state_dict'])
 This project is for educational and portfolio purposes.  
 California Housing dataset: public domain via `sklearn`.  
 House Rooms Image Dataset: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) via Kaggle.
+MIT
